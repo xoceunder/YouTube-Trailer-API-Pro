@@ -12,9 +12,7 @@ The system receives a video ID or URL, retrieves a compatible format, and delive
 
 It includes a modern administrative dashboard for creating clients, managing API keys, setting expiration dates, limiting concurrent streams, blocking accounts, querying requests, monitoring the VPS, and adjusting system settings.
 
-It is designed for IPTV providers, app developers, resellers, rebranding companies, and platforms requiring trailer integration via a private, controlled API.
-
-:smile:
+It is designed for IPTV providers, app developers, resellers, rebranding companies, and platforms requiring trailer integration via a private, controlled API. :smile:
 
 ## 🖌️ Included Functions
 
@@ -34,7 +32,3 @@ It is designed for IPTV providers, app developers, resellers, rebranding compani
 - Local PO Token provider.
 - JavaScript challenge resolution via Deno.
 - Integration with FFmpeg, ffprobe, curl_cffi, and yt-dlp-ejs.
-
-## 📬 Contact
-
-- Web: (https://www.apprebrands.com)
