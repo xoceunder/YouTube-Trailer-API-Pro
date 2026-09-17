@@ -14,7 +14,27 @@ It includes a modern administrative dashboard for creating clients, managing API
 
 It is designed for IPTV providers, app developers, resellers, rebranding companies, and platforms requiring trailer integration via a private, controlled API.
 
+:smile:
+
 ## 🖌️ Included Functions
 
-- Configuración remota y caché local de arranque con reapertura inmediata de la sesión guardada.
-- Arranque visual limpio: durante toda la inicialización se muestra únicamente
+- Direct playback via /watch and /stream.
+- Does not permanently store YouTube videos.
+- Preference for MP4 format up to 720p.
+- HTTP Range support.
+- 200 OK and 206 Partial Content responses.
+- Supports seeking (fast-forward/rewind) and resuming playback.
+- CDN preflight check before stream delivery.
+- Internal retries and automatic format switching.
+- Temporary caching of validated URLs.
+- Single-flight system: processes a single resolution per video even with simultaneous requests from multiple users.
+- Trailer preloading via /prefetch.
+- Support for authenticated Firefox cookies.
+- Private, automatic cookie snapshotting.
+- Local PO Token provider.
+- JavaScript challenge resolution via Deno.
+- Integration with FFmpeg, ffprobe, curl_cffi, and yt-dlp-ejs.
+
+## 📬 Contact
+
+- Web: (https://code.google.com/apis/console)
