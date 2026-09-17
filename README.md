@@ -1,9 +1,7 @@
 <h1 align="center">XCTV YouTube Trailer API Pro</h1>
 
-<p align="center">
-  <img src="https://www.apprebrands.com/media/products/ef2b805e6f9206812e23be69c7751510.png" alt="animated" />
-</p>
-
+![image alt](./ef2b805e6f9206812e23be69c7751510.png)
+ 
 ## 🏁 Getting Started
 
 YouTube API Server Pro is a self-hosted platform for Ubuntu Server that enables the integration and playback of YouTube trailers within IPTV apps, Roku, Android TV, Fire TV, mobile applications, websites, and external players.
