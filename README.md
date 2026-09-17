@@ -37,4 +37,4 @@ It is designed for IPTV providers, app developers, resellers, rebranding compani
 
 ## 📬 Contact
 
-- Web: (https://code.google.com/apis/console)
+- Web: (https://www.apprebrands.com)
